@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92a8c0b7-7659-4ed3-bd83-33ba01186d56": {
+      "ProjectGuid": "92a8c0b7-7659-4ed3-bd83-33ba01186d56",
+      "DisplayName": "test git",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
